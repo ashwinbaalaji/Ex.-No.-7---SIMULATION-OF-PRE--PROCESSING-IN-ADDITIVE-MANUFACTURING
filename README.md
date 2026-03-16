@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 11.3.26
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,16 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1915" height="1088" alt="Image" src="https://github.com/user-attachments/assets/5c57b2b3-c697-43e3-a46e-eb792e4afb59" />
+<img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/824ae161-52d5-4a77-8b60-23a9f5c268c0" />
 
-### Name:
-### Register Number:
+<img width="1911" height="1090" alt="Image" src="https://github.com/user-attachments/assets/27f024b9-2409-443e-95ee-e5ad49210101" />
+<img width="1919" height="1092" alt="Image" src="https://github.com/user-attachments/assets/e246dbc1-2065-469e-bf0f-1bfe4e897ea1" />
+<img width="1919" height="1088" alt="Image" src="https://github.com/user-attachments/assets/7c7300a7-c9ed-4ef5-822e-02b3fd8d15c8" />
+<img width="1919" height="1090" alt="Image" src="https://github.com/user-attachments/assets/63a892d6-eedf-4137-880a-20c4cf85e479" />
+
+### Name:ASHWIN BAALAJI V K
+### Register Number:25011987
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
